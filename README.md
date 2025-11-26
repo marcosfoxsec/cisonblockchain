@@ -129,3 +129,4 @@ Acesse em [http://localhost:8501](http://localhost:8501)
 PoC acadêmica e corporativa: *Automação de Provas de Conformidade em Blockchain para Avaliação de Maturidade Cibernética (CIS + CMMI)*  
 
 > Ferramentas: Python • Streamlit • Web3.py • Solidity • Pinata • Sepolia Testnet  
+

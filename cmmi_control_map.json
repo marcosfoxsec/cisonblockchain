@@ -1,0 +1,218 @@
+[
+  {
+    "control": 1,
+    "control_name": "Control 1",
+    "cmmi_notes": "C1 foca em inventário e controle de ativos; níveis altos exigem automação e métricas.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 2,
+    "control_name": "Control 2",
+    "cmmi_notes": "C2 exige controle de software autorizado; níveis altos pedem bloqueios e telemetria.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 3,
+    "control_name": "Control 3",
+    "cmmi_notes": "C3 trata de proteção de dados; níveis altos incluem DLP e classificação robusta.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 4,
+    "control_name": "Control 4",
+    "cmmi_notes": "C4 cobre hardening e configuração segura; níveis altos pedem baseline e drift control.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 5,
+    "control_name": "Control 5",
+    "cmmi_notes": "C5 gerencia contas; níveis altos envolvem recertificação e automação de lifecycle.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 6,
+    "control_name": "Control 6",
+    "cmmi_notes": "C6 controla acessos; níveis altos pedem ABAC/least privilege com monitoração contínua.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 7,
+    "control_name": "Control 7",
+    "cmmi_notes": "C7 é gestão de vulnerabilidades; níveis altos pedem SLA e cobertura mensurável.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 8,
+    "control_name": "Control 8",
+    "cmmi_notes": "C8 é logs e auditoria; níveis altos exigem centralização e detecção a partir de logs.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 9,
+    "control_name": "Control 9",
+    "cmmi_notes": "C9 protege email/navegador; níveis altos incluem sandboxing e políticas por risco.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 10,
+    "control_name": "Control 10",
+    "cmmi_notes": "C10 é antimalware; níveis altos exigem EDR/heurística/telemetria e testes regulares.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 11,
+    "control_name": "Control 11",
+    "cmmi_notes": "C11 é recuperação de dados; níveis altos pedem testes de restore e RTO/RPO medidos.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 12,
+    "control_name": "Control 12",
+    "cmmi_notes": "C12 gerencia infraestrutura; níveis altos exigem gestão de mudanças e IaC validada.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 13,
+    "control_name": "Control 13",
+    "cmmi_notes": "C13 monitora a rede; níveis altos envolvem NDR e detecção baseada em comportamento.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 14,
+    "control_name": "Control 14",
+    "cmmi_notes": "C14 é treinamento; níveis altos têm trilhas por função e eficácia medida.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 15,
+    "control_name": "Control 15",
+    "cmmi_notes": "C15 gerencia provedores; níveis altos exigem métricas contratuais e evidências.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 16,
+    "control_name": "Control 16",
+    "cmmi_notes": "C16 segurança de software; níveis altos pedem SDLC, SAST/DAST/IAST, e gates.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 17,
+    "control_name": "Control 17",
+    "cmmi_notes": "C17 resposta a incidentes; níveis altos têm tabletop, métricas e integração forense.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  },
+  {
+    "control": 18,
+    "control_name": "Control 18",
+    "cmmi_notes": "C18 pentest; níveis altos incluem red team orientado a objetivos e melhoria contínua.",
+    "cmmi_interpretation": {
+      "1": "Práticas ad-hoc, execução inconsistente.",
+      "2": "Práticas gerenciadas e repetíveis com donos definidos.",
+      "3": "Processos definidos, padronizados e comunicados.",
+      "4": "Processos mensurados; métricas e limites operacionais.",
+      "5": "Otimização contínua; aprendizado e automação avançada."
+    }
+  }
+]
